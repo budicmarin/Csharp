@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\bin\Debug\budicMarinMojaDrugaAplikacija.exe.config
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\bin\Debug\budicMarinMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\bin\Debug\budicMarinMojaDrugaAplikacija.pdb
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.Form1.resources
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.Properties.Resources.resources
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\budicMarinMojaDrugaAplikacija\budicMarinMojaDrugaAplikacija\obj\Debug\budicMarinMojaDrugaAplikacija.pdb
