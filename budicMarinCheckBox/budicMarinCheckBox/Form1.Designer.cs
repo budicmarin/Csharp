@@ -39,7 +39,7 @@
             // checkBoxDorucak
             // 
             this.checkBoxDorucak.AutoSize = true;
-            this.checkBoxDorucak.Location = new System.Drawing.Point(12, 181);
+            this.checkBoxDorucak.Location = new System.Drawing.Point(12, 106);
             this.checkBoxDorucak.Name = "checkBoxDorucak";
             this.checkBoxDorucak.Size = new System.Drawing.Size(83, 21);
             this.checkBoxDorucak.TabIndex = 0;
@@ -50,7 +50,7 @@
             // checkBoxRucak
             // 
             this.checkBoxRucak.AutoSize = true;
-            this.checkBoxRucak.Location = new System.Drawing.Point(12, 208);
+            this.checkBoxRucak.Location = new System.Drawing.Point(12, 133);
             this.checkBoxRucak.Name = "checkBoxRucak";
             this.checkBoxRucak.Size = new System.Drawing.Size(70, 21);
             this.checkBoxRucak.TabIndex = 1;
@@ -61,7 +61,7 @@
             // checkBoxVecera
             // 
             this.checkBoxVecera.AutoSize = true;
-            this.checkBoxVecera.Location = new System.Drawing.Point(12, 235);
+            this.checkBoxVecera.Location = new System.Drawing.Point(12, 160);
             this.checkBoxVecera.Name = "checkBoxVecera";
             this.checkBoxVecera.Size = new System.Drawing.Size(75, 21);
             this.checkBoxVecera.TabIndex = 2;
@@ -71,9 +71,9 @@
             // 
             // btnPosalji
             // 
-            this.btnPosalji.Location = new System.Drawing.Point(132, 392);
+            this.btnPosalji.Location = new System.Drawing.Point(365, 379);
             this.btnPosalji.Name = "btnPosalji";
-            this.btnPosalji.Size = new System.Drawing.Size(75, 23);
+            this.btnPosalji.Size = new System.Drawing.Size(247, 51);
             this.btnPosalji.TabIndex = 3;
             this.btnPosalji.Text = "Pošalji";
             this.btnPosalji.UseVisualStyleBackColor = true;
@@ -82,7 +82,7 @@
             // checkSakriNarudzbu
             // 
             this.checkSakriNarudzbu.AutoSize = true;
-            this.checkSakriNarudzbu.Location = new System.Drawing.Point(234, 394);
+            this.checkSakriNarudzbu.Location = new System.Drawing.Point(417, 352);
             this.checkSakriNarudzbu.Name = "checkSakriNarudzbu";
             this.checkSakriNarudzbu.Size = new System.Drawing.Size(126, 21);
             this.checkSakriNarudzbu.TabIndex = 4;
@@ -92,12 +92,11 @@
             // 
             // textBoxOdabrali
             // 
-            this.textBoxOdabrali.Location = new System.Drawing.Point(132, 12);
+            this.textBoxOdabrali.Location = new System.Drawing.Point(173, 12);
             this.textBoxOdabrali.Multiline = true;
             this.textBoxOdabrali.Name = "textBoxOdabrali";
-            this.textBoxOdabrali.Size = new System.Drawing.Size(558, 343);
+            this.textBoxOdabrali.Size = new System.Drawing.Size(517, 334);
             this.textBoxOdabrali.TabIndex = 5;
-            this.textBoxOdabrali.Text = "Odabrali ste";
             this.textBoxOdabrali.TextChanged += new System.EventHandler(this.TextBoxOdabraliSte_TextChanged);
             // 
             // Form1
@@ -113,6 +112,7 @@
             this.Controls.Add(this.checkBoxDorucak);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

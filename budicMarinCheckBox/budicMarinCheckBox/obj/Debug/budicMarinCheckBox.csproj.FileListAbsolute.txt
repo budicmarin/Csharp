@@ -8,3 +8,13 @@ C:\Users\Marin\source\repos\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budi
 C:\Users\Marin\source\repos\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.csproj.CoreCompileInputs.cache
 C:\Users\Marin\source\repos\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.exe
 C:\Users\Marin\source\repos\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.pdb
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\bin\Debug\budicMarinCheckBox.exe.config
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\bin\Debug\budicMarinCheckBox.exe
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\bin\Debug\budicMarinCheckBox.pdb
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.csprojAssemblyReference.cache
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.Form1.resources
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.Properties.Resources.resources
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.csproj.GenerateResource.cache
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.csproj.CoreCompileInputs.cache
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.exe
+D:\Doownloads\budicMarinCheckBox\budicMarinCheckBox\obj\Debug\budicMarinCheckBox.pdb

@@ -21,12 +21,12 @@ namespace budicMarinCheckBox
 
         private void CheckBoxDorucak_CheckedChanged(object sender, EventArgs e)
         {
-            textBoxOdabrali.Text ="Dorucak";
+            
         }
 
         private void CheckBoxRucak_CheckedChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void CheckBoxVecera_CheckedChanged(object sender, EventArgs e)
@@ -36,15 +36,62 @@ namespace budicMarinCheckBox
 
         private void CheckSakriNarudzbu_CheckedChanged(object sender, EventArgs e)
         {
+            if (!checkSakriNarudzbu.Checked)
+            {
+                if (checkBoxDorucak.Checked)
+                {
+                    textBoxOdabrali.AppendText("Odabrali ste Dorucak. ");
+                }
+                if (checkBoxRucak.Checked)
+                {
+                    textBoxOdabrali.AppendText("\r\nOdabrali ste Rucak. ");
+                }
+                if (checkBoxVecera.Checked)
+                {
+                    textBoxOdabrali.AppendText("\r\nOdabrali ste Večeru. ");
+                }
+                
+                
+            }
+            else
+            {
+                textBoxOdabrali.Clear();
+            }
 
         }
 
         private void BtnPosalji_Click(object sender, EventArgs e)
+        
+{
+            if (checkSakriNarudzbu.Checked)
+            {
+
+            }
+            else
+            {
+                textBoxOdabrali.Clear();
+                if (checkBoxDorucak.Checked)
+                {
+                    textBoxOdabrali.AppendText("Odabrali ste Dorucak. ");
+                }
+                if (checkBoxRucak.Checked)
+                {
+                    textBoxOdabrali.AppendText("\r\nOdabrali ste Rucak. ");
+                }
+                if (checkBoxVecera.Checked)
+                {
+                    textBoxOdabrali.AppendText("\r\nOdabrali ste Večeru. ");
+                }
+            }
+            
+        }
+
+        private void TextBoxOdabraliSte_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void TextBoxOdabraliSte_TextChanged(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }
