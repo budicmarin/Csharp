@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\bin\Debug\budicMarinDomacaZadaca.exe.config
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\bin\Debug\budicMarinDomacaZadaca.exe
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\bin\Debug\budicMarinDomacaZadaca.pdb
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\obj\Debug\budicMarinDomacaZadaca.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\obj\Debug\budicMarinDomacaZadaca.exe
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\obj\Debug\budicMarinDomacaZadaca.pdb
+C:\Users\Marin\source\repos\budicMarinDomacaZadaca\budicMarinDomacaZadaca\obj\Debug\budicMarinDomacaZadaca.csprojAssemblyReference.cache
