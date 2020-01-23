@@ -1,0 +1,11 @@
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\bin\Debug\budicMarinPrimjena.exe.config
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\bin\Debug\budicMarinPrimjena.exe
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\bin\Debug\budicMarinPrimjena.pdb
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.Form1.resources
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.Properties.Resources.resources
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.csproj.GenerateResource.cache
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.exe
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.pdb
+C:\Users\Marin\source\repos\budicMarinPrimjena\budicMarinPrimjena\obj\Debug\budicMarinPrimjena.Text.resources
